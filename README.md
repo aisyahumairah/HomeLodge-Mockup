@@ -5,6 +5,10 @@ It simulates the core functionality of a real‑world homestay reservation syste
 
 ---
 
+URL: https://aisyahumairah.github.io/HomeLodge-Mockup/
+
+---
+
 ## 🚀 Project Overview
 
 **HomeLodge** allows two primary personas to interact:
